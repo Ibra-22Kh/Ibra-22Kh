@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Application Engineer | AI Enigneer
 -------------------------------------
 
-I've been eager to make better myself at problem-solving, game designing, and anything that can benefit me in the software engineering industry. I tend to learn more about computer science and hardware development, I'm trying in the long term to make beneficial ideas with more skills I acquire throughout my journey.
+I've been eager to make myself better at problem-solving, game designing, and anything that can benefit me in the software engineering industry. I tend to learn more about computer science and hardware development, I'm trying in the long term to make beneficial ideas with more skills I acquire throughout my journey.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [sonarfarouq@gmail.com](mailto:sonarfarouq@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects and great new ideas
-* ⚡  A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+* ⚡  "Happiness does not lie in happiness, but in the achievement of it." Fyodor Dostoevsky
 
 ### Skills
 
